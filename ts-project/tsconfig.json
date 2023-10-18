@@ -1,6 +1,12 @@
 {
   "files": [
-    "./src/main.ts"
+    "./src/main.ts",
+    "./src/matchHandler.ts",
+    "./src/createMatch.ts",
+    "./src/findMatch.ts",
+    "./src/listMatches.ts",
+    "./src/getUserProperties.ts",
+    "./src/constants.ts"
   ],
   "compilerOptions": {
     "target": "es5",
